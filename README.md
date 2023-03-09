@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning frontend web development
+- 🌱 I’m currently learning frontend web development.
 - 📫 How to reach me: sadikbarisyilmaz@gmail.com
 - ⚡ Fun fact: I am a classically trained pianist !
 
