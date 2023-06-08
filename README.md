@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning frontend web development.
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me: sadikbarisyilmaz@gmail.com
-- ⚡ Fun fact: I am a classically trained pianist !
+- ⚡ Fun fact: I am also a classically trained pianist !
 
 <!--
 **sadikbarisyilmaz/sadikbarisyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
