@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Re:Coded Capstone Project - Crowdfunding Platform**
 
-- 🌱 I’m currently learning **Next.js, MUI**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [sadikbarisyilmaz.dev](https://sadikbarisyilmaz.dev)
 
