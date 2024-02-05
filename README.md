@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **fullstackopen project - Blog List App**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👨‍💻 All of my projects are available at [sadikbarisyilmaz.dev](https://sadikbarisyilmaz.dev)
 
