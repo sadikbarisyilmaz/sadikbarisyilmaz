@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadık Barış Yılmaz</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **fullstackopen project - Blog List App**
+- 🔭 I’m currently working on **Lancer App**
 
 - 🌱 I’m currently learning **GraphQL**
 
