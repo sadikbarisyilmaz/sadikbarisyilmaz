@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sadık Barış Yılmaz</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Lancer App**
+- 🔭 I’m currently working on **Team Random App**
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **Framer Motion**
 
 - 👨‍💻 All of my projects are available at [sadikbarisyilmaz.dev](https://sadikbarisyilmaz.dev)
 
